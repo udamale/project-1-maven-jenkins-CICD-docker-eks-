@@ -18,7 +18,7 @@
 
 
 
-#--------------------Taking direct image maven and Tomcat on ubuntu------------------##
+#--------------------Taking direct Tomcat and maven on ubuntu------------------##
 # FROM ubuntu:latest as builder
 # RUN apt-get update && \
 #     apt-get install -y openjdk-8-jdk wget unzip
